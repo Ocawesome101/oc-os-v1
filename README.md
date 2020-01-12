@@ -4,7 +4,7 @@ Custom OS for ComputerCraft. Precursor to the (I think) fully sandboxed v2.0.
 Pretty modular.
 
 ## NOTICE
-This is still highly in development! The shell works pretty well; there are just a few things I need to clean up; programs I need to write; and bugs I need to squash before version 1.0.
+This is still highly in development! The shell works pretty well; there are just a few things to clean up, programs to write, and bugs to squash before version 1.0.
 
 I will not provide a link to the installer until version 1.0 is released, though you can still find a very minimal one on my Pastebin account, if you can find _that_.
 
